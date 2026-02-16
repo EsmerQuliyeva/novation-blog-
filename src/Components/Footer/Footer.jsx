@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="footer-logo-container">
             <h2 className="footer-logo">Novation</h2>
             <p>
-              Innovate, Elevate, <br /> Excel
+              Innovate, Elevate, <br /> Accelerate
             </p>
           </div>
           <div className="footer-links-container">
@@ -74,3 +74,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
