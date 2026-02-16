@@ -35,37 +35,37 @@ const reviews = [
   {
     text: "Your company’s innovative approach and use of modern technologies truly impressed us. We wish you continued success!",
     name: "Orxan Babayev",
-    position: "Principal Software Engineer, Vercel",
+    position: "Principal Software Engineer",
     image: author1,
   },
   {
     text: "Working with your team has been a fantastic experience. The professionalism you demonstrated exceeded our expectations.",
     name: "Akif Aliyev",
-    position: "Frontend Developer, Google",
+    position: "Frontend Developer",
     image: author2,
   },
   {
     text: "The quality of service and attention to detail were outstanding. Your solutions helped us optimize our processes and achieve better results.",
     name: "Murad Karimov",
-    position: "Backend Engineer, Amazon",
+    position: "Backend Engineer",
     image: author3,
   },
   {
     text: "We truly appreciate your dedication and commitment to delivering excellence. The results positively impacted our business growth.",
     name: "Nigar Mammadova",
-    position: "UI/UX Designer, Meta",
+    position: "UI/UX Designer",
     image: author4,
   },
   {
     text: "Your forward-thinking mindset and creative problem-solving skills set you apart. The collaboration was smooth and productive.",
     name: "Gunay Huseynova",
-    position: "Software Architect, Netflix",
+    position: "Software Architect",
     image: author5,
   },
   {
     text: "From start to finish, the entire process was handled with professionalism and care. Highly recommended!",
     name: "Kenan Ibrahimov",
-    position: "Product Manager, Apple",
+    position: "Product Manager",
     image: author6,
   },
 ];
@@ -114,3 +114,4 @@ const NewsSlider = () => {
 };
 
 export default NewsSlider;
+
